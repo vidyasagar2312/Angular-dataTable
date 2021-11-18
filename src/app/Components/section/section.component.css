@@ -1,0 +1,24 @@
+/* .data-conatiner {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  margin-top: 50px;
+}
+
+.data-conatiner h3 {
+  font-weight: 500;
+}
+
+.Name,
+.Access,
+.Status {
+  display: grid;
+  justify-content: center;
+}
+
+.example-header-image {
+  background-color: aqua;
+} */
+
+table {
+  width: 100%;
+}

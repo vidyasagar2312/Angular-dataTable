@@ -1,0 +1,25 @@
+.title-holder {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  height: 100%;
+}
+
+.title-holder h2 {
+  margin: 0;
+}
+
+.title-holder button {
+  color: rgb(11, 127, 236);
+  border-color: rgb(11, 127, 236);
+  border-width: thin;
+  padding: 5px 10px;
+}
+
+.dummy-text {
+  margin-top: 10px;
+}
+
+p {
+  line-height: 2;
+}
